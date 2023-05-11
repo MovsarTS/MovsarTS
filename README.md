@@ -4,8 +4,6 @@
 
 <div>
 
-***Меня зовут Мовсар и я Frontend разработчик (MERN)***
-
 <h3>🛠️ Основной стек, который я использую:</h3>
 <div>
 <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
