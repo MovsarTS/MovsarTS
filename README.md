@@ -36,15 +36,12 @@
 
 <h4>- Аукцон:</h4>
 <a href="https://github.com/MovsarTS/final-front.git">Фронт</a> |
-<a href="https://github.com/MovsarTS/final-back.git">Бэк</a> | 
-<a href="##">Демо</a>
+<a href="https://github.com/MovsarTS/final-back.git">Бэк</a>
 
 <h4>- Ландшафтный дизайн</h4>
 <a href="https://github.com/MovsarTS/project-forest-front.git">Фронт</a> |
-<a href="https://github.com/MovsarTS/project-forest-back.git">Бэк</a> | 
-<a href="##">Демо</a>
+<a href="https://github.com/MovsarTS/project-forest-back.git">Бэк</a>
 
 <h4>- Аптека:</h4>
 <a href= "https://github.com/MovsarTS/apteka-team-front.git">Фронт</a> |
-<a href= "https://github.com/MovsarTS/apteka-team-back.git">Бэк</a> |
-<a href="##">Демо</a>
+<a href= "https://github.com/MovsarTS/apteka-team-back.git">Бэк</a>
