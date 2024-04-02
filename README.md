@@ -26,7 +26,7 @@
 
 <h4>Как вы можете со мной связаться:</h4>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/mvs451)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/iammovsar)
 
 
 
